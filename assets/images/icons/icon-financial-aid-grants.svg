@@ -1,0 +1,18 @@
+<svg id="icon-financial-aid-grants" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="120" height="110.625" viewBox="0 0 120 110.625">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_76" data-name="Rectangle 76" width="120" height="110.625" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="Group_764" data-name="Group 764" clip-path="url(#clip-path)">
+    <path id="Path_2142" data-name="Path 2142" d="M118.125,68.906H112.5V63.28a1.874,1.874,0,0,0-1.875-1.874H105V55.78a1.874,1.874,0,0,0-1.875-1.874H1.875A1.874,1.874,0,0,0,0,55.78v48.75a1.874,1.874,0,0,0,1.875,1.875H7.5v5.625a1.874,1.874,0,0,0,1.875,1.875H15v5.625a1.874,1.874,0,0,0,1.875,1.875H118.125A1.874,1.874,0,0,0,120,119.53V70.781a1.874,1.874,0,0,0-1.875-1.875m-1.875,48.749H18.75v-3.75h91.875a1.874,1.874,0,0,0,1.875-1.875V72.656h3.75Zm-105-11.25h91.875A1.874,1.874,0,0,0,105,104.53V65.156h3.75v45H11.25Zm-7.5-48.75h97.5v45H3.75Z" transform="translate(0 -10.781)" fill="#600"/>
+    <path id="Path_2143" data-name="Path 2143" d="M9.375,70.781v22.5l7.5,7.5h75l7.5-7.5v-22.5l-7.5-7.5h-75ZM18.429,97.03l-5.3-5.3V72.334l5.3-5.3H54.375a15,15,0,0,0,0,30Zm47.2-15a11.25,11.25,0,1,1-11.25-11.25,11.262,11.262,0,0,1,11.25,11.25m30-9.7V91.727l-5.3,5.3H54.376a15,15,0,0,0,0-30H90.322Z" transform="translate(-1.875 -12.656)" fill="#600"/>
+    <rect id="Rectangle_72" data-name="Rectangle 72" width="3.75" height="3.75" transform="translate(24.375 67.5)" fill="#600"/>
+    <rect id="Rectangle_73" data-name="Rectangle 73" width="3.75" height="3.75" transform="translate(16.875 67.5)" fill="#600"/>
+    <rect id="Rectangle_74" data-name="Rectangle 74" width="3.75" height="3.75" transform="translate(84.375 67.5)" fill="#600"/>
+    <rect id="Rectangle_75" data-name="Rectangle 75" width="3.75" height="3.75" transform="translate(76.875 67.5)" fill="#600"/>
+    <path id="Path_2144" data-name="Path 2144" d="M74.668,32.973V0h-3.75V32.973l-4.3-4.3-2.65,2.651,7.5,7.5a1.875,1.875,0,0,0,2.651,0l7.5-7.5-2.651-2.651Z" transform="translate(-12.793 0)" fill="#600"/>
+    <path id="Path_2145" data-name="Path 2145" d="M37.25,36.723l-4.3-4.3L30.3,35.075l7.5,7.5a1.872,1.872,0,0,0,2.65,0l7.5-7.5L45.3,32.423l-4.3,4.3v-16.1a1.875,1.875,0,0,0-1.874-1.875H0V22.5H37.25Z" transform="translate(0 -3.75)" fill="#600"/>
+    <path id="Path_2146" data-name="Path 2146" d="M98.887,18.749a1.875,1.875,0,0,0-1.875,1.875v16.1l-4.3-4.3-2.651,2.652,7.5,7.5a1.875,1.875,0,0,0,2.651,0l7.5-7.5-2.651-2.652-4.3,4.3V22.5h37.25v-3.75Z" transform="translate(-18.012 -3.75)" fill="#600"/>
+  </g>
+</svg>
